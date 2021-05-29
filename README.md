@@ -11,7 +11,7 @@ Use the api url to send request.
 
 Endpoint: /convert
 
-Request body: {"input" : "<Your text>"}
+Request body: {"input" : "Your text"}
 
 # Future Work:
 
